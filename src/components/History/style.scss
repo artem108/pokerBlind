@@ -1,0 +1,24 @@
+.history-container {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    width: 420px;
+
+    .history-container-column,
+    .history-container-column-title {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+
+        .history-container-cell-title {
+            width: 33%;
+            font-size: 30px;
+        }
+
+        .history-container-cell {
+            width: 33%;
+            border: 1px solid black;
+            margin-top: 5px;
+        }
+    }
+}

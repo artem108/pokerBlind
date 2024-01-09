@@ -1,0 +1,39 @@
+.navigation-container {
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    bottom: 20px;
+
+    button {
+        width: 64px;
+        height: 64px;
+        background-size: contain;
+        background-repeat: no-repeat;
+        display: block;
+    }
+
+    .timer {
+        background-image: url('../../assets/timerNav.png');
+    }
+
+    .settings {
+        background-image: url('../../assets/settingsNav.png');
+    }
+
+    .history {
+        background-image: url('../../assets/historyNav.png');
+    }
+
+}
+
+@media only screen and (max-width: 950px) and (min-width: 500px)  {
+    .navigation-container {
+        display: flex;
+        flex-direction: column;
+        padding-left: 10px;
+        left: 0;
+        height: 100vh;
+
+    }
+  }
