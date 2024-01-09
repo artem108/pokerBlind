@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.96177cb2.css",
-    "main.js": "/static/js/main.2a486a1e.js",
-    "index.html": "/index.html",
-    "main.96177cb2.css.map": "/static/css/main.96177cb2.css.map",
-    "main.2a486a1e.js.map": "/static/js/main.2a486a1e.js.map"
+    "main.css": "/pokerBlind/static/css/main.96177cb2.css",
+    "main.js": "/pokerBlind/static/js/main.2a486a1e.js",
+    "index.html": "/pokerBlind/index.html",
+    "main.96177cb2.css.map": "/pokerBlind/static/css/main.96177cb2.css.map",
+    "main.2a486a1e.js.map": "/pokerBlind/static/js/main.2a486a1e.js.map"
   },
   "entrypoints": [
     "static/css/main.96177cb2.css",
